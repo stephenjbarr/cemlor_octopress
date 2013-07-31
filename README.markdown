@@ -2,6 +2,15 @@
 
 The Center for Machine Learning in Operations Research
 
+## To Deploy
+
+```bash
+cd public
+ponyhost push www.cemlor.org
+```
+## Theme
+This is currently using the [justin-kelly-theme](https://github.com/wallace/justin-kelly-theme).
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.

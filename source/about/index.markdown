@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "about"
+title: "About CEMLOR"
 date: 2012-07-24 03:16
 comments: false
 sharing: false
